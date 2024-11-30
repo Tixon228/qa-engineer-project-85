@@ -1,0 +1,184 @@
+---
+- summary: |
+    Проверка регистрации нового пользователя с валидными данными
+  status: pass
+  
+- summary: |
+    Проверка невозможности регистрации с некорректными полями
+  status: pass
+  
+- summary: |
+    Проверка входа в систему с существующими данными 
+  status: pass
+  
+- summary: |
+    Проверка невозможности входа с неверными данными
+  status: pass
+
+- summary: |
+    Проверка входа в систему с помощью Discord
+  status: pass
+
+- summary: |
+    Проверка входа в систему с помощью Github
+  status: pass
+
+- summary: |
+    Проверка отображения страницы с описанием сайта для неавторизованного пользователя
+  status: pass
+
+- summary: |
+    Проверка кнопки "Try simple battle"
+  status: pass
+
+- summary: |
+    Убедиться, что список игр в лобби отображается корректно
+  status: pass
+
+- summary: |
+    Проверка работы кнопки "Fight" для вызова игрока на игру
+  status: pass
+
+- summary: |
+    Проверка работы чата в лобби
+  status: pass
+
+- summary: |
+    Проверка отображения таблицы лидеров
+  status: pass
+
+- summary: |
+    Проверка кнопки "Top list"
+  status: pass
+
+- summary: |
+    Проверка создания игры
+  status: pass
+
+- summary: |
+    Проверка корректного отображения игроков в онлайне
+  status: pass
+
+- summary: |
+    Проверка отправки частного сообщения через иконку конверта
+  status: pass
+
+- summary: |
+    Проверка отправки приглашения в игру через иконку мечей
+  status: pass
+
+- summary: |
+    Проверка отображения пунктов различных действий при нажатии на ник онлайн игроков
+  status: pass
+
+- summary: |
+    Проверка работы функции копирования имени игрока
+  status: pass
+
+- summary: |
+    Проверка отображения информации о другом игроке
+  status: pass
+
+- summary: |
+    Проверка подписки на другого игрока
+  status: pass
+
+- summary: |
+    Проверка отправки личного сообщения другому игроку
+  status: pass
+
+- summary: |
+    Проверка отправки приглашения на игру
+  status: pass
+
+- summary: |
+    Проверка корректного отображения информации во вкладке "Tournaments"
+  status: pass
+
+- summary: |
+    Проверка кнопки "Show" у турнира
+  status: pass
+
+- summary: |
+    Проверка присоединения к турниру, который уже начался через кнопку "Join"
+  status: pass
+
+- summary: |
+    Проверка выхода из турнира, который уже начался через кнопку "Leave"
+  status: pass
+
+- summary: |
+    Проверка корректного отображения информации во вкладке "History"
+  status: pass
+
+- summary: |
+    Проверка кнопки "Show" у игры из истории
+  status: pass
+
+- summary: |
+    Проверка верного отображения "My Profile"
+  status: pass
+
+- summary: |
+    Проверка функциональности "Settings"
+  status: pass
+
+- summary: |
+    Проверка работы кнопки "Sign Out"
+  status: pass
+
+- summary: |
+    Проверка корректного отображения "Tasks"
+  status: pass
+
+- summary: |
+    Проверка кнопки "Show" для задачи
+  status: pass
+
+- summary: |
+    Проверка создания новой задачи
+  status: pass
+
+- summary: |
+    Проверка корректного отображения рейтинга пользователей
+  status: pass
+
+- summary: |
+    Проверка переключения между временными периодами рейтинга
+  status: pass
+
+- summary: |
+    Проверка поиска пользователя в рейтинге
+  status: pass
+
+- summary: |
+    Проверка сортировки пользователей по рейтингу
+  status: pass
+
+- summary: |
+    Проверка работы перехода в "SourceCode"
+  status: pass
+
+- summary: |
+    Проверка работы перехода в "Hexlet"
+  status: pass
+
+- summary: |
+    Проверка работы перехода в "Join Discord"
+  status: pass
+
+- summary: |
+    Проверка работы перехода в "Tg#codebattle"
+  status: pass
+
+- summary: |
+    Проверка запросов в Devtools
+  status: pass
+
+- summary: |
+    Проверка совместимости с мобильными устройствами
+  status: pass
+
+- summary: |
+    Проверка защиты форм от XSS атак
+  status: pass
