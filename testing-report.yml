@@ -133,11 +133,11 @@
 
 - summary: |
     Проверка кнопки "Show" для задачи
-  status: pass
+  status: fail
 
 - summary: |
     Проверка создания новой задачи
-  status: pass
+  status: fail
 
 - summary: |
     Проверка корректного отображения рейтинга пользователей
@@ -173,7 +173,7 @@
 
 - summary: |
     Проверка запросов в Devtools
-  status: pass
+  status: fail
 
 - summary: |
     Проверка совместимости с мобильными устройствами
